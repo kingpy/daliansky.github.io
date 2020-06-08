@@ -8665,6 +8665,7 @@ Layout1,3,8,9,11,12,13,18,22,23,24,25,26,27,28,29,30,31,32,34,36,37,38,39,41， 
 </tbody>
 </table>
 <h2 id="其它机型请提交到这里"><a class="markdownIt-Anchor" href="#其它机型请提交到这里"></a> 其它机型请提交到<a href="https://github.com/daliansky/Hackintosh" target="_blank" rel="noopener">这里</a></h2>
+<h2 id="感谢名单"><a class="markdownIt-Anchor" href="#感谢名单"></a> 感谢名单：</h2>
 <ul>
 <li><a href="https://github.com/CloverHackyColor" target="_blank" rel="noopener">CloverHackyColor</a>维护的项目：<a href="https://github.com/CloverHackyColor/CloverBootloader" target="_blank" rel="noopener">CloverBootloader</a> <a href="https://github.com/CloverHackyColor/CloverThemes" target="_blank" rel="noopener">CloverThemes</a></li>
 <li>宪武整理的：<a href="https://github.com/daliansky/P-little" target="_blank" rel="noopener">P-little</a> <a href="https://github.com/daliansky/OC-little" target="_blank" rel="noopener">OC-little</a></li>
@@ -21022,8 +21023,8 @@ And 的第三个参数，是把前两个数的计算结果，写入到第三个�
         <category>教程</category>
       </categories>
       <tags>
-        <tag>接口</tag>
         <tag>platform-id</tag>
+        <tag>接口</tag>
         <tag>显存</tag>
         <tag>显示器</tag>
       </tags>
@@ -22212,8 +22213,8 @@ Clover默认config.plist为620/630/640/650；<br>
         <category>教程</category>
       </categories>
       <tags>
-        <tag>CPUFriend</tag>
         <tag>Lilu</tag>
+        <tag>CPUFriend</tag>
         <tag>Plugins</tag>
         <tag>CPU变频</tag>
         <tag>插件</tag>
@@ -23121,9 +23122,9 @@ Clover默认config.plist为620/630/640/650；<br>
         <category>教程</category>
       </categories>
       <tags>
-        <tag>Lilu</tag>
         <tag>AppleALC</tag>
         <tag>Codec</tag>
+        <tag>Lilu</tag>
       </tags>
   </entry>
   <entry>
@@ -23358,14 +23359,14 @@ HDMI连接到0204，所以我修补该端口的HDMI（启用HDMI音频）。<br>
         <category>教程</category>
       </categories>
       <tags>
-        <tag>Lilu</tag>
-        <tag>Plugins</tag>
         <tag>10.12</tag>
         <tag>10.13</tag>
         <tag>Sierra</tag>
         <tag>High Sierra</tag>
-        <tag>常见问题</tag>
+        <tag>Lilu</tag>
+        <tag>Plugins</tag>
         <tag>Clover</tag>
+        <tag>常见问题</tag>
         <tag>platform-id</tag>
         <tag>Patch</tag>
         <tag>wake</tag>
@@ -24219,8 +24220,8 @@ MD5 (macOS Sierra 10.12.6 16G29 Installer with Clover 4133.dmg) = 81ecbc29863381
         <tag>Sierra</tag>
         <tag>10.12.6</tag>
         <tag>镜像</tag>
-        <tag>dmg</tag>
         <tag>安装</tag>
+        <tag>dmg</tag>
       </tags>
   </entry>
   <entry>
