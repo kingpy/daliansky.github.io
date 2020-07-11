@@ -2,6 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.daliansky.net/WeChat-First-macOS-Big-Sur-Beta-2-Installer-for-OpenCore-and-PE-dual-EFI-partition-original-image.html</loc>
+    
+    <lastmod>2020-07-11T13:47:15.820Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/WeChat-First-macOS-Catalina-10.15.5-19F101-official-version-Clover-5118-OC-WEPE-supports-both-INTEL-and-AMD-original-images.html</loc>
+    
+    <lastmod>2020-07-11T13:15:13.151Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Sierra-10-12-6-16G29-with-Clover-4133-original-mirror-with-multi-drive.html</loc>
+    
+    <lastmod>2020-07-11T13:15:13.151Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html</loc>
+    
+    <lastmod>2020-07-11T13:15:13.150Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html</loc>
+    
+    <lastmod>2020-07-11T13:15:13.150Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html</loc>
+    
+    <lastmod>2020-07-11T13:15:13.149Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html</loc>
+    
+    <lastmod>2020-07-11T13:15:13.148Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.2-18C54-official-version-with-Clover-4792-original-image.html</loc>
+    
+    <lastmod>2020-07-11T13:15:13.147Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14-18A389-Release-with-Clover-4670-original-mirror.html</loc>
+    
+    <lastmod>2020-07-11T13:15:13.146Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14-18A391-official-version-with-Clover-4674-original-image.html</loc>
+    
+    <lastmod>2020-07-11T13:15:13.146Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html</loc>
+    
+    <lastmod>2020-07-11T13:15:13.144Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html</loc>
+    
+    <lastmod>2020-07-11T13:15:13.143Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
     
     <lastmod>2020-06-23T12:50:41.642Z</lastmod>
@@ -54,20 +138,6 @@
     <loc>https://blog.daliansky.net/WeChat-First-macOS-Catalina-10.15.5-19F96-official-version-Clover-5118-OC-WEPE-supports-both-INTEL-and-AMD-original-images.html</loc>
     
     <lastmod>2020-06-08T13:22:39.730Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/WeChat-First-macOS-Catalina-10.15.5-19F101-official-version-Clover-5118-OC-WEPE-supports-both-INTEL-and-AMD-original-images.html</loc>
-    
-    <lastmod>2020-06-08T13:22:39.729Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html</loc>
-    
-    <lastmod>2020-05-27T20:55:29.102Z</lastmod>
     
   </url>
   
@@ -135,13 +205,6 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html</loc>
-    
-    <lastmod>2020-05-19T22:16:58.997Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/tags/index.html</loc>
     
     <lastmod>2020-05-03T03:24:03.440Z</lastmod>
@@ -156,14 +219,14 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/categories/index.html</loc>
+    <loc>https://blog.daliansky.net/about/index.html</loc>
     
     <lastmod>2020-05-03T03:24:03.409Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/about/index.html</loc>
+    <loc>https://blog.daliansky.net/categories/index.html</loc>
     
     <lastmod>2020-05-03T03:24:03.409Z</lastmod>
     
@@ -254,34 +317,6 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html</loc>
-    
-    <lastmod>2020-05-03T03:24:03.402Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html</loc>
-    
-    <lastmod>2020-05-03T03:24:03.402Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html</loc>
-    
-    <lastmod>2020-05-03T03:24:03.402Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html</loc>
-    
-    <lastmod>2020-05-03T03:24:03.402Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/Add-CLOVER-boot-to-UEFI-without-any-tools.html</loc>
     
     <lastmod>2020-05-03T03:24:03.402Z</lastmod>
@@ -296,35 +331,7 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/macOS-Sierra-10-12-6-16G29-with-Clover-4133-original-mirror-with-multi-drive.html</loc>
-    
-    <lastmod>2020-05-03T03:24:03.402Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14-18A389-Release-with-Clover-4670-original-mirror.html</loc>
-    
-    <lastmod>2020-05-03T03:24:03.401Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.2-18C54-official-version-with-Clover-4792-original-image.html</loc>
-    
-    <lastmod>2020-05-03T03:24:03.401Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/macOS-Mojave-10.14.1-18B75-official-version-with-Clover-4726-original-image.html</loc>
-    
-    <lastmod>2020-05-03T03:24:03.401Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14-18A391-official-version-with-Clover-4674-original-image.html</loc>
     
     <lastmod>2020-05-03T03:24:03.401Z</lastmod>
     
