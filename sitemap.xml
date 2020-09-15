@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.daliansky.net/WeChat-First-macOS-Big-Sur-Beta-4-20A5343i-Installer-for-OpenCore-0.6.0-and-PE-dual-EFI-partition-original-image.html</loc>
+    
+    <lastmod>2020-09-15T12:20:57.364Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
+    
+    <lastmod>2020-09-15T12:20:57.364Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html</loc>
+    
+    <lastmod>2020-09-15T12:20:57.364Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
+    
+    <lastmod>2020-08-20T13:06:50.705Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.daliansky.net/macOS-Catalina-10.15.6-19G73-Release-version-with-Clover-5119-original-image-Double-EFI-Version-UEFI-and-MBR.html</loc>
     
     <lastmod>2020-08-14T13:30:14.478Z</lastmod>
@@ -16,23 +44,9 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Intel-core-display-platformID-finishing.html</loc>
-    
-    <lastmod>2020-08-14T13:01:29.100Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/Lenovo-Xiaoxin-PRO-13-2019-and-macOS-Catalina-Installation-Tutorial.html</loc>
     
     <lastmod>2020-08-13T09:53:44.378Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/WeChat-First-macOS-Big-Sur-Beta-4-20A5343i-Installer-for-OpenCore-0.6.0-and-PE-dual-EFI-partition-original-image.html</loc>
-    
-    <lastmod>2020-08-13T09:53:44.377Z</lastmod>
     
   </url>
   
@@ -100,13 +114,6 @@
   </url>
   
   <url>
-    <loc>https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html</loc>
-    
-    <lastmod>2020-08-13T09:53:44.371Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html</loc>
     
     <lastmod>2020-08-13T09:53:44.370Z</lastmod>
@@ -145,13 +152,6 @@
     <loc>https://blog.daliansky.net/macOS-Sierra-10-12-6-16G29-with-Clover-4133-original-mirror-with-multi-drive.html</loc>
     
     <lastmod>2020-07-11T13:15:13.151Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html</loc>
-    
-    <lastmod>2020-07-11T13:15:13.150Z</lastmod>
     
   </url>
   
